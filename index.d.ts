@@ -1,3 +1,5 @@
 import * as express from 'express';
 
-export default function universalCookieMiddleware(): express.Handler;
+declare function universalCookieMiddleware(): express.Handler;
+declare namespace universalCookieMiddleware {}
+export = universalCookieMiddleware
