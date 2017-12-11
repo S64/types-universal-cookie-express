@@ -1,6 +1,6 @@
 {
   "name": "@types/universal-cookie-express",
-  "version": "0.0.1-SNAPSHOT",
+  "version": "2.1.2-1",
   "private": true,
   "main": "index.d.ts",
   "repository": {
@@ -15,6 +15,6 @@
   "devDependencies": {
     "@types/express": "^4.0.39",
     "universal-cookie-express": "^2.1.2",
-    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#ba714f7"
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1"
   }
 }
