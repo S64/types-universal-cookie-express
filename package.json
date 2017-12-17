@@ -15,6 +15,6 @@
   "devDependencies": {
     "@types/express": "^4.0.39",
     "universal-cookie-express": "^2.1.2",
-    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-1"
+    "@types/universal-cookie": "git+ssh://git@github.com:S64/types-universal-cookie.git#v2.1.2-2"
   }
 }
